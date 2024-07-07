@@ -50,3 +50,5 @@ Here HTML code that displays the data fetched from DB:
 ```html
 <h2 id="ac"><?php echo $lastAction ?></h2>
 ```
+![ControlPanelPage](imgs/CP.png)
+![LastActionPage](imgs/LA.png)
