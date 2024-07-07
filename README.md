@@ -1,8 +1,5 @@
 # 1st-Task
 
-[Robot Control Panel](URL)
-[Robot Control Panel - Last Action](URL)
-
 
 First, I created a simple form using Bootstrap icons for directions and customized them with CSS. I made sure to carefully design the form to be responsive across all devices.
 
