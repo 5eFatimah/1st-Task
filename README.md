@@ -19,7 +19,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['action'])) {
 And then, I started inserting values into the database:
 ```php
 $stmt = $connect->prepare("INSERT INTO actions (Action) VALUES (?)");
-    $stmt->bind_param("s", $action); 
+$stmt->bind_param("s", $action); 
 ```
 And then I redirected back to the same page :)
 ```php
